@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProcTarget_Desafio2/1.0.0": {
+        "runtime": {
+          "ProcTarget_Desafio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProcTarget_Desafio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

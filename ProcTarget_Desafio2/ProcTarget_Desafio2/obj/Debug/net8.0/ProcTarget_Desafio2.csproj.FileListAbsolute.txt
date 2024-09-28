@@ -1,0 +1,14 @@
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\bin\Debug\net8.0\ProcTarget_Desafio2.exe
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\bin\Debug\net8.0\ProcTarget_Desafio2.deps.json
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\bin\Debug\net8.0\ProcTarget_Desafio2.runtimeconfig.json
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\bin\Debug\net8.0\ProcTarget_Desafio2.dll
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\bin\Debug\net8.0\ProcTarget_Desafio2.pdb
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.AssemblyInfoInputs.cache
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.AssemblyInfo.cs
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.dll
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\refint\ProcTarget_Desafio2.dll
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.pdb
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ProcTarget_Desafio2.genruntimeconfig.cache
+C:\Users\mstom\source\repos\Target_processo_seletivo\ProcTarget_Desafio2\ProcTarget_Desafio2\obj\Debug\net8.0\ref\ProcTarget_Desafio2.dll
